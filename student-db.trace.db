@@ -1,0 +1,25 @@
+2023-12-04 11:25:40.226887+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Obiekt jest zamknięty
+The object is already closed [90007-224]
+2023-12-04 11:28:29.852400+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Obiekt jest zamknięty
+The object is already closed [90007-224]
+2023-12-04 11:41:16.235271+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Obiekt jest zamknięty
+The object is already closed [90007-224]
+2023-12-05 13:57:48.584258+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Obiekt jest zamknięty
+The object is already closed [90007-224]
+2023-12-07 09:36:09.743981+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Obiekt jest zamknięty
+The object is already closed [90007-224]
+2023-12-07 10:47:49.156183+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Obiekt jest zamknięty
+The object is already closed [90007-224]
+2023-12-07 17:33:19.231305+01:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "PARTICIPATION" nie istnieje
+Table "PARTICIPATION" not found; SQL statement:
+SELECT * FROM participation [42102-224]
+2023-12-08 14:28:01.512392+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Obiekt jest zamknięty
+The object is already closed [90007-224]
